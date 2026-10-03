@@ -31,7 +31,7 @@ O objetivo do projeto é construir uma aplicação acadêmica organizada em dife
 
 As funcionalidades implementadas no projeto deverão ser atualizadas conforme a evolução do sistema.
 
-Entre as funcionalidades do App_Scholar estão:
+Entre as funcionalidades do AppScholar estão:
 
 - Navegação entre as diferentes telas da aplicação;
 - Tela inicial com acesso aos módulos do sistema;
@@ -105,7 +105,7 @@ O projeto está organizado em diferentes áreas, separando a aplicação mobile,
 Estrutura geral do repositório:
 
 ```text
-App-Scholar/
+AppScholar/
 │
 ├── mobile/
 │   ├── assets/
